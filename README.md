@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU4YjlvOGpvNWFybXE5NHp0N3FyNzA2a3c4cTN4MGw0czAza2M0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm LAM YONG QIN</h1>
 <h3 align="center">IT student from SEGi College Penang.</h3>
 
