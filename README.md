@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm LAM YONG QIN</h1>
-<h3 align="center">IT student from SEGi College Penang.</h3>
+<h3 align="center">AKA Blablablacksheep11.</h3>
 
 - 🌱 I’m currently learning **React & Python**
 
