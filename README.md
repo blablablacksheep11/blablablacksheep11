@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm LAM YONG QIN</h1>
 <h3 align="center">blablablacksheep11.</h3>
 
-- 🌱 I’m currently learning **React & Python**
-
 - 📫 How to reach me **lamyongqin@gmail.com**
 
 - ⚡ Fun fact <br>**I’m working on TrashTrack – basically a smart bin that knows more about trash than I do. While digging through code like it’s my new hobby, I’m learning React and Python. Think of me as a 'code digger' – not quite a pro, but definitely trying!**
