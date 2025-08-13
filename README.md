@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **lamyongqin@gmail.com**
 
-- ⚡ Fun fact <br>**I’m working on TrashTrack – basically a smart bin that knows more about trash than I do. While digging through code like it’s my new hobby. Think of me as a 'code digger' – not quite a pro, but definitely trying!**
+- ⚡ Fun fact <br>**While digging through code like it’s my new hobby. Think of me as a 'code digger' – not quite a pro, but definitely trying!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lam yong qin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lam yong qin" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lam-yong-qin-353b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lam yong qin" height="30" width="40" /></a>
 <a href="https://instagram.com/yong_qin1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yong_qin1101" height="30" width="40" /></a>
 </p>
 
